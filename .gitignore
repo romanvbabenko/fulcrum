@@ -2,6 +2,7 @@ config/database.yml
 config/fulcrum.rb
 .bundle
 db/*.sqlite3
+/db/schema.rb
 log/*.log
 tmp/
 .rvmrc
